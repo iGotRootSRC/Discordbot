@@ -10,10 +10,11 @@ pip3 install dotenv
 ```
 
 ## Usage
-Specify Discord bot token in `.env` file
+Specify Discord bot token in `.env` file - Create your bot on Discord https://discordapp.com/developers/applications
 
 Run the bot once token has been updated and you have invited it to the server you need it on and changed the script up for your identifiers.
 `python3 bot.py`
+
 
 
 Read the docs to customize even more: https://discordpy.readthedocs.io/en/latest/
