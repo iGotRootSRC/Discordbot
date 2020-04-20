@@ -11,6 +11,7 @@ pip3 install dotenv
 
 ## Usage
 Specify Discord bot token in `.env` file
+
 Run the bot once token has been updated and you have invited it to the server you need it on and changed the script up for your identifiers.
 `python3 bot.py`
 
